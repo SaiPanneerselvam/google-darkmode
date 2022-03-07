@@ -1,2 +1,3 @@
-# google-darkmode
-A simple dark mode version of google.com
+# Google Dark mode
+#### [App](https://saigoogle.page.link/home)
+Google Dakmode 
